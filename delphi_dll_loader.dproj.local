@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.503,=C:\Users\User\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.868,=C:\Users\User\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,=C:\Users\User\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.259,=C:\Users\User\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.961,=C:\Users\User\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2025.07.08 23:15:27.531,=C:\Users\User\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2025.07.08 23:15:55.500,E:\Delphi\delphi_dll_loader\u_main.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>2025.07.08 23:15:55.500,E:\Delphi\delphi_dll_loader\u_main.pas=C:\Users\User\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2025.07.08 23:16:05.721,E:\Delphi\delphi_dll_loader\delphi_dll_loader.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>2025.07.08 23:18:11.964,=E:\Delphi\delphi_dll_loader\PluginInterface.pas</Transaction>
+    <Transaction>2025.07.08 23:18:12.375,=E:\Delphi\delphi_dll_loader\PluginManager.pas</Transaction>
+  </Transactions>
+</BorlandProject>
